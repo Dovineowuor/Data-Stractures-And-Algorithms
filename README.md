@@ -49,5 +49,5 @@ Contributions to this repository are welcome! If you find a bug, have an improve
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code for personal or commercial purposes.
 
-#A Author
+# Author
 - [Dovine K. Owuor](https://www.dovineowuor.github.io)
